@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "130069472287",
+    "firebase_url": "https://adarsh-general-store.firebaseio.com",
+    "project_id": "adarsh-general-store",
+    "storage_bucket": "adarsh-general-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130069472287:android:35552f102e5845f5",
+        "android_client_info": {
+          "package_name": "com.example.abhishek.adarshgeneralstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130069472287-sthqcnt976pnhburbtbr6et73fb77vah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7uhF1s6U8lPOfLEltwwKIcr3afYvBiD4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
